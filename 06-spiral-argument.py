@@ -2,7 +2,7 @@ import turtle
 
 ben = turtle.Turtle()
 
-def spiral(sides, turn, colour, width):
+def spiral(sides, turn, color, width):
     ben.color(color)
     ben.width(width)
     for side in sides:
