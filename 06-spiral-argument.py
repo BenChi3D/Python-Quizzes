@@ -9,4 +9,4 @@ def spiral(sides, turn, colour, width):
         ben.forward(side)
         ben.right(turn)
 
-spiral(101, 50, "green", 5) # a test
+spiral(100, 50, "green", 5) # a test
