@@ -3,3 +3,5 @@ def area_tri():
     height = input('input a  height:\n ')
     area = (int(base) * int(height))/2
     print(f'The area of the triangle is {area}')
+
+area_tri()
